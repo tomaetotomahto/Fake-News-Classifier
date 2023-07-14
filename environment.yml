@@ -1,0 +1,11 @@
+name: env
+channels:
+  - defaults
+dependencies:
+  - jupyter
+  - matplotlib
+  - pandas
+  - scikit-learn
+  - nltk
+  - seaborn
+  - wordcloud
